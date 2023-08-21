@@ -1,5 +1,7 @@
 ## Student Marking Application Overview
 
+***** This project works on Windows ONLY *****
+
 This project creates a detailed report on the grades of each student. To open the application, the user is required to click on the “Student Marking Application” tab and click on the button. When opening the application, the user Is greeted by a user form consisting of three option buttons and three command buttons. 
 <p align="center">
     <img src="https://github.com/devangmalhotra/student-marking-application/assets/119973585/261b37d9-43d2-4c7f-bad5-996a5050d70f" alt="drawing" width="300"/>
